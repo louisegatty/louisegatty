@@ -20,6 +20,30 @@ My research interests include public economics, labor economics, inequalities, d
 • Studied a mixture of finite mixtures model for latent group inference in dynamic panel data settings; wrote the R notebook documenting the numerical experiments (evaluation through Monte Carlo simulations). \
 • Conducted a literature review on the determinants of inflation since 2020.
 
+## Selected Projects
+
+### [Captive Markets: Vendor Markups in California Prison Packages](https://github.com/Walkenhorst-Scraping/Walkenhorst-Scraping)
+*Independent research project, with Antonio Raphael*  
+How much more do families pay for care packages sold by Walkenhorst, the sole vendor for California prisons, than at mainstream retailers?
+- Web-scraped retailer price data and extracted prices from PDF catalogues using regular expressions.
+- Cleaned, harmonized and linked items across sources through fuzzy matching.
+
+`R` · `Python` · `web scraping` · `regex` · `fuzzy matching`
+
+### [Emergency Department Closures and Staffing Shortages](https://github.com/louisegatty/drees-policy)
+*Commissioned by DREES (French Ministry of Health statistical office)*
+- Harmonized and merged hospital-level administrative data for all French emergency departments (EDs).
+- Geolocated EDs and analyzed staffing trends across France, 2014–2024.
+- Contributed to building a database of ED closures through LLM-assisted web collection.
+
+`R` · `Python` · `administrative data` · `geolocation` · `LLM-assisted data collection`
+
+### [Air Pollution Forecasting in Île-de-France](https://github.com/XCroissants/XCroissants-Predicting-Air-Quality)
+*Course project*
+- Merged public datasets and performed feature engineering (lags, transformations, normalization).
+- Compared machine learning models (OLS, Elastic Net, LightGBM) with hyperparameter tuning.
+
+`R` · `Python` · `machine learning` · `LightGBM` · `forecasting`
 
 ## Methods and tools
 
