@@ -13,7 +13,7 @@ My research interests are applied econometrics, public economics, labor economic
 📄 **Working paper:** [*The Macroeconomic Effects of Tariff Announcements*](https://afranconi.github.io/academic-papers/FGH_tariffs.pdf), with [Alessandro Franconi](https://sites.google.com/view/alessandrofranconi/home) and [Lukas Hack](https://lukashack.com)
 
 • Contributed to internal policy notes on the macroeconomic implications of the war in Iran. \
-• Wrote a literature review on the global and country-specific determinants of sovereign credit risk. \
+• Wrote a literature review on the global and country-specific determinants of sovereign credit risk.
 
 
 **CREST** · *Research Assistant for Anna Simoni (November 2025 to April 2026)*
