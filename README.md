@@ -36,6 +36,6 @@ My research interests are applied econometrics, public economics, labor economic
 ## Methods and tools
 
 Programming: Python (advanced) · R (advanced) · Stata · SQL · VBA · Bash \
-Econometrics: Panel data · IV / 2SLS · Finite mixture models · Monte Carlo simulation · Causal inference \
+Econometrics: Panel data · IV / 2SLS ·  Causal inference · Finite mixture models · Monte Carlo simulation \
 Time series & macro: Local projections · High-frequency identification · Narrative identification · Event studies \
 Data science: Machine learning (NLP, causal inference) · Forecasting · Web scraping · Data visualisation
