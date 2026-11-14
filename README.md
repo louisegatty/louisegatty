@@ -12,23 +12,18 @@ My research interests include public economics, labor economics, inequalities, d
 
 📄 **Working paper:** [*The Macroeconomic Effects of Tariff Announcements*](https://afranconi.github.io/academic-papers/FGH_tariffs.pdf), with Alessandro Franconi and Lukas Hack (Nov. 2026)
 
-• Contributed to internal policy notes on the macroeconomic implications of the war in Iran.
-
+• Contributed to internal policy notes on the macroeconomic implications of the war in Iran. \
 • Wrote a literature review on the global and country-specific determinants of sovereign credit risk.
 
 **CREST** · *Research Assistant for Anna Simoni (Nov. 2025 – Apr. 2026)*
 
-• Studied a mixture of finite mixtures model for latent group inference in dynamic panel data settings; wrote the R notebook documenting the numerical experiments (evaluation through Monte Carlo simulations).
-
+• Studied a mixture of finite mixtures model for latent group inference in dynamic panel data settings; wrote the R notebook documenting the numerical experiments (evaluation through Monte Carlo simulations). \
 • Conducted a literature review on the determinants of inflation since 2020.
 
 
 ## Methods and tools
 
-Programming: Python (advanced) · R (advanced) · Stata · SQL · VBA · Bash
-
-Econometrics: Panel data · IV / 2SLS · Finite mixture models · Monte Carlo simulation · Causal inference
-
-Time series & macro: Local projections · High-frequency identification · Narrative identification · Event studies
-
+Programming: Python (advanced) · R (advanced) · Stata · SQL · VBA · Bash \
+Econometrics: Panel data · IV / 2SLS · Finite mixture models · Monte Carlo simulation · Causal inference \
+Time series & macro: Local projections · High-frequency identification · Narrative identification · Event studies \
 Data science: Machine learning (NLP, causal inference) · Web scraping · Data visualisation
