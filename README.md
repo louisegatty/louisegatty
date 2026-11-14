@@ -2,7 +2,7 @@
 
 I'm a student at École polytechnique and ENSAE Paris, completing a master's degree in Data and Economics for Public Policy. My coursework mainly includes econometrics, machine learning, and public policy evaluation. I hold a bachelor’s degree in Applied Economics from Université Paris Dauphine-PSL.
 
-My research interests include public economics, labor economics, inequalities, democracy and media economics, applied econometrics, and macroeconomics.
+My research interests are applied econometrics, public economics, labor economics, inequalities, democracy and media economics, and macroeconomics.
 
 ## Research Experience
 
