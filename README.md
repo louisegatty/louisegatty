@@ -8,7 +8,7 @@ My research interests are applied econometrics, public economics, labor economic
 
 **Banque de France** · *Research Assistant for Alessandro Franconi and Charles Serfaty (April to August 2026)*
 
-• Worked on the macroeconomic effects of US tariff announcements during the 2025–2026 trade war. Implemented the narrative high-frequency identification (56 announcements selected from LSEG breaking-news headlines, surprises measured from bilateral exchange-rate movements); ran the exogeneity tests of the surprise series. Contributed to the estimation of the response of 12 daily outcomes (statutory tariff rate, retail prices, consumer spending, equity prices, the dollar, uncertainty indices, Treasury yields) using daily local projections, and to the robustness checks (jackknife, alternative event windows, controls for the predictable component of the surprise).
+• Worked on the macroeconomic effects of US tariff announcements during the 2025–2026 trade war. Implemented the narrative high-frequency identification (56 announcements selected from LSEG breaking-news headlines, surprises measured from bilateral exchange-rate movements); ran the exogeneity tests of the surprise series. Contributed to the estimation of the response of daily outcomes using local projections, and to the robustness checks (jackknife, alternative event windows).
 
 📄 **Working paper:** [*The Macroeconomic Effects of Tariff Announcements*](https://afranconi.github.io/academic-papers/FGH_tariffs.pdf), with [Alessandro Franconi](https://sites.google.com/view/alessandrofranconi/home) and [Lukas Hack](https://lukashack.com)
 
