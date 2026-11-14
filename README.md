@@ -6,7 +6,7 @@ My research interests are applied econometrics, public economics, labor economic
 
 ## Research Experience
 
-**Banque de France** · *Research Assistant for Alessandro Franconi and Charles Serfaty (Apr. - Aug. 2026)*
+**Banque de France** · *Research Assistant for Alessandro Franconi and Charles Serfaty (April to August 2026)*
 
 • Worked on the macroeconomic effects of US tariff announcements during the 2025–2026 trade war. Implemented the narrative high-frequency identification (56 announcements selected from LSEG breaking-news headlines, surprises measured from bilateral exchange-rate movements); ran the exogeneity tests of the surprise series. Contributed to the estimation of the response of 12 daily outcomes (statutory tariff rate, retail prices, consumer spending, equity prices, the dollar, uncertainty indices, Treasury yields) using daily local projections, and to the robustness checks (jackknife, alternative event windows, controls for the predictable component of the surprise).
 
@@ -16,7 +16,7 @@ My research interests are applied econometrics, public economics, labor economic
 • Wrote a literature review on the global and country-specific determinants of sovereign credit risk. \
 
 
-**CREST** · *Research Assistant for Anna Simoni (Nov. 2025 – Apr. 2026)*
+**CREST** · *Research Assistant for Anna Simoni (November 2025 to April 2026)*
 
 • Studied a mixture of finite mixtures model for latent group inference in dynamic panel data settings; wrote the R notebook documenting the numerical experiments (evaluation through Monte Carlo simulations). \
 • Conducted a literature review on the determinants of inflation since 2020.
