@@ -15,6 +15,7 @@ My research interests are applied econometrics, public economics, labor economic
 • Contributed to internal policy notes on the macroeconomic implications of the war in Iran. \
 • Wrote a literature review on the global and country-specific determinants of sovereign credit risk. \
 
+\
 
 **CREST** · *Research Assistant for Anna Simoni (Nov. 2025 – Apr. 2026)*
 
