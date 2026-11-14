@@ -4,7 +4,7 @@ I'm a student at École polytechnique and ENSAE Paris, completing a master's deg
 
 My research interests include public economics, labor economics, inequalities, democracy and media economics, and macroeconomics.
 
-## Research Experience
+### Research Experience
 
 **Banque de France.** *Research Assistant for Alessandro Franconi and Charles Serfaty.* [Apr. - Aug. 2026] 
 
