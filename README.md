@@ -2,8 +2,6 @@
 
 I'm a student at École polytechnique and ENSAE Paris, completing a master's degree in Data and Economics for Public Policy. My coursework mainly includes econometrics, machine learning, and public policy evaluation. I hold a bachelor’s degree in Applied Economics from Université Paris Dauphine-PSL.
 
-My research interests are applied econometrics, public economics, labor economics, inequalities, democracy and media economics, and macroeconomics.
-
 ## Research Experience
 
 **Banque de France** · *Research Assistant for Alessandro Franconi and Charles Serfaty (April to August 2026)*
